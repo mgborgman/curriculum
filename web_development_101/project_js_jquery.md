@@ -430,5 +430,6 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Zach Beaird's Solution](https://github.com/zbbeaird89/Etch-a-Sketch) | [View in Browser](https://htmlpreview.github.io/?https://github.com/zbbeaird89/Etch-a-Sketch/blob/master/index.html)
 * [Harsha Laxman's Solution](https://github.com/HarshaLaxman/sketch-squares) | [View in Browser](http://htmlpreview.github.io/?https://github.com/HarshaLaxman/sketch-squares/blob/master/index.html)
 * [Karthik's Solution](https://github.com/kmeda/jquery-sketchpad) | [View in Browser](https://htmlpreview.github.io/?https://github.com/kmeda/jquery-sketchpad/blob/master/index.html) [;P]
+* [Matt Borgman's solution](https://github.com/mgborgman/javascript/tree/master/etch_a_sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/mgborgman/javascript/blob/master/etch_a_sketch/index.html)
 
 * Add your solution above this line!
